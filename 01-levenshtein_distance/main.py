@@ -27,7 +27,7 @@ def test_levenshtein_distance():
         "Saint John's University Thailand",
     ], columns=['name'])
 
-    new_university = "Saint Joseph's College (ME)"
+    new_university = "Saint Joe's College (ME)"
 
     print('New university:', new_university)
     print()
